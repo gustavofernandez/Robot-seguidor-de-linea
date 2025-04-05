@@ -122,4 +122,3 @@ Link del proyecto: [https://github.com/tu-usuario/robot-seguidor-lineas](https:/
 
 ---
 
-⭐️ ¡Si te ha resultado útil, no olvides dejar una estrella en GitHub! ⭐️
