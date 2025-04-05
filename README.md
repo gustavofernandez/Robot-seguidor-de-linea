@@ -41,10 +41,10 @@ Un sistema de control inteligente para robots seguidores de líneas con calibrac
 
 1. Clona este repositorio:
 ```bash
-git clone https://github.com/tu-usuario/robot-seguidor-lineas.git
+git clone https://github.com/gustavofernandez/robot-seguidor-lineas.git
 ```
 
-2. Abre el archivo `robot_seguidor_lineas.ino` en el Arduino IDE
+2. Abre el archivo `Robot.ino` en el Arduino IDE
 
 3. Conecta tu Arduino y selecciona el puerto correcto
 
