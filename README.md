@@ -2,7 +2,6 @@
 
 Un sistema de control inteligente para robots seguidores de líneas con calibración en tres pasos y detección de ausencia de superficie.
 
-![Robot Seguidor de Líneas]
 
 ## 📋 Características
 
