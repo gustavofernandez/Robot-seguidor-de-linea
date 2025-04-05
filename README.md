@@ -15,12 +15,14 @@ Un sistema de control inteligente para robots seguidores de líneas con calibrac
 
 ## 🛠️ Hardware Necesario
 
-- Arduino UNO o compatible
-- 6 sensores infrarrojos (4 frontales + 2 laterales)
-- 2 motores DC con driver (L298N o similar)
+- Arduino NANO o compatible
+- 6 sensores infrarrojos CNY70 (4 frontales + 2 laterales)
+- 2 motores DC con reductor 
 - 1 LED indicador
 - 1 pulsador
-- Baterías y chasis de robot
+- 1 LM324
+- 1 LM358
+- Batería 9V 
 
 ### 📌 Conexiones
 
@@ -107,7 +109,6 @@ El sistema utiliza un controlador PD (Proporcional-Derivativo) para ajustar la v
 El sistema detecta automáticamente cuando el robot no está sobre ninguna superficie utilizando:
 
 - Comparación de lecturas con valores calibrados
-- Margen dinámico de ±20% sobre el rango calibrado
 - Detección independiente por cada sensor
 
 ## 📄 Licencia
