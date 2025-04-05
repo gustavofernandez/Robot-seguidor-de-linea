@@ -116,7 +116,7 @@ Este proyecto está licenciado bajo [MIT License](LICENSE) - ver el archivo LICE
 
 ## 📞 Contacto
 
-[Fernández Hernán Gustavo] - [gustavoo.fernandez@gmail.com]
+[Gustavo Fernández] - [gustavoo.fernandez@gmail.com]
 
 Link del proyecto: [https://github.com/tu-usuario/robot-seguidor-lineas](https://github.com/tu-usuario/robot-seguidor-lineas)
 
