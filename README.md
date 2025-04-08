@@ -22,6 +22,7 @@ Un sistema de control inteligente para robots seguidores de líneas con calibrac
 - 1 pulsador
 - 1 LM324
 - 1 LM358
+- 2 2SD882 (Equivalentes: BD140/BD139/BD137/BD135)
 - Batería 9V 
 
 ### 📌 Conexiones
