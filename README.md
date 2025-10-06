@@ -13,6 +13,10 @@ Un sistema de control inteligente para robots seguidores de líneas con calibrac
 - ✅ **Feedback visual** mediante LED de estado
 - ✅ **Información detallada** a través del monitor serie
 
+## 🖼️ Vista previa
+
+!(IMG_20250404_211620.jpg)
+
 ## 🛠️ Hardware Necesario
 
 - Arduino NANO o compatible
