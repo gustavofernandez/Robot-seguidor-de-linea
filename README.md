@@ -124,7 +124,7 @@ Este proyecto está licenciado bajo [MIT License](LICENSE) - ver el archivo LICE
 
 [Gustavo Fernández] - [gustavoo.fernandez@gmail.com]
 
-Link del proyecto: [https://github.com/tu-usuario/robot-seguidor-lineas](https://github.com/tu-usuario/robot-seguidor-lineas)
+Link del proyecto: [https://github.com/gustavofernandez/Robot-seguidor-de-linea](https://github.com/gustavofernandez/Robot-seguidor-de-linea)
 
 ---
 
